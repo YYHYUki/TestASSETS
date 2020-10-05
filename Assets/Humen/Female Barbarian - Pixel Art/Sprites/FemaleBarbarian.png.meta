@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 28c53aec716c1704f9871f1366311c70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: FemaleBarbarian_0
+  - first:
+      213: 21300002
+    second: FemaleBarbarian_1
+  - first:
+      213: 21300004
+    second: FemaleBarbarian_2
+  - first:
+      213: 21300006
+    second: FemaleBarbarian_3
+  - first:
+      213: 21300008
+    second: FemaleBarbarian_4
+  - first:
+      213: 21300010
+    second: FemaleBarbarian_5
+  - first:
+      213: 21300012
+    second: FemaleBarbarian_6
+  - first:
+      213: 21300014
+    second: FemaleBarbarian_7
+  - first:
+      213: 21300016
+    second: FemaleBarbarian_8
+  - first:
+      213: 21300018
+    second: FemaleBarbarian_9
+  - first:
+      213: 21300020
+    second: FemaleBarbarian_10
+  - first:
+      213: 21300022
+    second: FemaleBarbarian_11
+  - first:
+      213: 21300024
+    second: FemaleBarbarian_12
+  - first:
+      213: 21300026
+    second: FemaleBarbarian_13
+  - first:
+      213: 21300028
+    second: FemaleBarbarian_14
+  - first:
+      213: 21300030
+    second: FemaleBarbarian_15
+  - first:
+      213: 21300032
+    second: FemaleBarbarian_16
+  - first:
+      213: 21300034
+    second: FemaleBarbarian_17
+  - first:
+      213: 21300036
+    second: FemaleBarbarian_18
+  - first:
+      213: 21300038
+    second: FemaleBarbarian_19
+  - first:
+      213: 21300040
+    second: FemaleBarbarian_20
+  - first:
+      213: 21300042
+    second: FemaleBarbarian_21
+  - first:
+      213: 21300044
+    second: FemaleBarbarian_22
+  - first:
+      213: 21300046
+    second: FemaleBarbarian_23
+  - first:
+      213: 21300048
+    second: FemaleBarbarian_24
+  - first:
+      213: 21300050
+    second: FemaleBarbarian_25
+  - first:
+      213: 21300052
+    second: FemaleBarbarian_26
+  - first:
+      213: 21300054
+    second: FemaleBarbarian_27
+  - first:
+      213: 21300056
+    second: FemaleBarbarian_28
+  - first:
+      213: 21300058
+    second: FemaleBarbarian_29
+  - first:
+      213: 21300060
+    second: FemaleBarbarian_30
+  - first:
+      213: 21300062
+    second: FemaleBarbarian_31
+  - first:
+      213: 21300064
+    second: FemaleBarbarian_32
+  - first:
+      213: 21300066
+    second: FemaleBarbarian_33
+  - first:
+      213: 21300068
+    second: FemaleBarbarian_34
+  - first:
+      213: 21300070
+    second: FemaleBarbarian_35
+  - first:
+      213: 21300072
+    second: FemaleBarbarian_36
+  - first:
+      213: 21300074
+    second: FemaleBarbarian_37
+  - first:
+      213: 21300076
+    second: FemaleBarbarian_38
+  - first:
+      213: 21300078
+    second: FemaleBarbarian_39
+  - first:
+      213: 21300080
+    second: FemaleBarbarian_40
+  - first:
+      213: 21300082
+    second: FemaleBarbarian_41
+  - first:
+      213: 21300084
+    second: FemaleBarbarian_42
+  - first:
+      213: 21300086
+    second: FemaleBarbarian_43
+  - first:
+      213: 21300088
+    second: FemaleBarbarian_44
+  - first:
+      213: 21300090
+    second: FemaleBarbarian_45
+  - first:
+      213: 21300092
+    second: FemaleBarbarian_46
+  - first:
+      213: 21300094
+    second: FemaleBarbarian_47
+  - first:
+      213: 21300096
+    second: FemaleBarbarian_48
+  - first:
+      213: 21300098
+    second: FemaleBarbarian_49
+  - first:
+      213: 21300100
+    second: FemaleBarbarian_50
+  - first:
+      213: 21300102
+    second: FemaleBarbarian_51
+  - first:
+      213: 21300104
+    second: FemaleBarbarian_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemaleBarbarian_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc2641fe0279142b45479fff5511c6
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 442
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cebb6b201f9fb4989704da6257486d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 442
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d94be21aa6c3d439796d5d8e24d0df
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 442
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3c1d1609614c940b0c20dfdd457d12
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 442
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f5fda8c712f1c478d6c7e2b0c714af
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 442
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6fdf72a6d345c458efdab9792d94ba
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 442
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7578858e4281ea94b9e6b4a697791950
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 442
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa4cca754196b47be22a45045127af
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a805eb5e82abb4c45b9a7a424691a7da
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 372
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c425de5f4bf64e9c61d36450ba21a
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bfec45462e3e143b7ec137a93a7858
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b91b3c98e1f7a4ab30e562b03a189c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 372
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbbd23f451062149a3a687803c2c849
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 372
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d296147f0572a4193c2b7dab702ab7
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 372
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ecf938f5f37154bb70c409636b64d6
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 372
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c30f287fb94324fa24720e89840635
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1408dc02bb86da5419a1ce5637b8e501
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 302
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d5f799912dc742af4764bf8f64319
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 302
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496e45e432bbe4647ab7a083c3b0d985
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 302
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31db3ec4a7c957a42b17f8eb40c334f6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 302
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1864a138772dff4f8de2d39b9e07256
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 302
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065a86f1945fea34797d20b40855c9c0
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 302
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9850531ee8ad8c144ad3d13448512a46
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 302
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344fbee00b6351345bdd9f7fc3c6bcba
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b228125ac1244ea332729a793113f
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 232
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6355aa7b6efd078458c28689cfc5b2da
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 232
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacc1b1a97331464a9e5d416ee96fa8f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 232
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3c40c8034e3134fbc5335d685ed8d5
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 232
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5133bf0d7824948ae6023badb6a641
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 232
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0398969a426254081557b9354407a5
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 232
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda1371c16366f4ab5c00d1d0ed0f2f
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 232
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852e4514e3bdf8409b979cb55429447
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9002499fa4b23b94f8f704e9883d1ce0
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd67a2ffde7074f4cbebb9c04319bb60
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 162
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d29cd6528060f4683f976b2f78aa15
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15fc33d4ba974c4d9395684147de853
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 162
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461470f60b9731849893f4644412d2b7
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 162
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c69121bd148079448cbf6b68a536dfd
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 162
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab13301e9bcf46c4d9acfd639bed8e4e
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 162
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750673d012542df4a9c48240a95359bb
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c796d93c0e4d8458f626529531f557
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 92
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a9718b24b635148b7740ee67e05983
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 92
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed05db9991e3614ba4298eef7ffa000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09001f31ba1a1e243a39bb6eac1888bd
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 92
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e854e75116f64504e8b29561c5f92fb2
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 92
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56bbb8d982324543b882eaebe842726
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 92
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb84e89bab4ad8a428f0e34eb686545c
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 92
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96462732f6e7b9a4c8fdb4a10161e267
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116e6db01dd4c3f4b9ba19fd22359ad4
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 22
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41056e4bec453b84a9299656924ce943
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 22
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1650549b3f3e184abf6e98d8a7f8309
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 22
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7559bfe0479224ba43831add2af12d
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleBarbarian_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 22
+        width: 100
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d26e741f0f2f43b5b9a9eebcd75c4
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 80b13ed351bee184dabf3267a8cf8b84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
